@@ -29,7 +29,7 @@ github_username:  adrianlafond
 
 defaults:
   - scope:
-      path: "assets/images"
+      path: "walking/assets/images"
     values:
       image: true
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "snow at dusk"
-date:   2022-12-25 02:012:00 -0500
+date:   2022-12-25 14:12:00 -0500
 categories: snow dusk williamstown
 ---
 

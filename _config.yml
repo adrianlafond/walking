@@ -23,10 +23,10 @@ email: mail@adrianlafond.com
 description: >- # this means to ignore newlines until "baseurl:"
   Adrian blogs his walking endeavors, including any pertinent ruminations as
   well as interesting photographs.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+baseurl: "/walking" # the subpath of your site, e.g. /blog
+url: "https://adrianlafond.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: adrianlafond
+github_username:  adrianlafond
 
 # Build settings
 theme: minima
